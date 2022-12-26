@@ -19,11 +19,12 @@ I am a Data Scientist with a Master of Science in Computer Science, I have a str
 
 My experience at Conrad Electronics SE includes contributing to projects such as a demand forecasting model, optimizing the company's search engine using NLP algorithms, and identifying patterns to deter fraudulent transactions. I am well familiar with the Google Cloud Platform (GCP) and have experience with process engineering methodologies such as Scrum, Kanban, and Scrumban.
 
-📫 How to reach me: [shrikanthsingh.eee@gmail.com](shrikanthsingh.eee@gmail.com)
+📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-shrikanthsingh.eee@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shrikanthsingh.eee@gmail.com)](mailto:shrikanthsingh.eee@gmail.com)
 
 😄 Pronouns: Learner/He/Him/His
 
-📝 Resume - [About Me](https://drive.google.com/file/d/1Olzlb0canPPp1ymKqgR1cPNkD5GDYipX/view?usp=sharing)  
+📝 Resume - [About Me](https://drive.google.com/file/d/1Olzlb0canPPp1ymKqgR1cPNkD5GDYipX/view?usp=sharing)
+  
   
 
 <br/>  
