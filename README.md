@@ -24,6 +24,8 @@ My experience at Conrad Electronics SE includes contributing to projects such as
 😄 Pronouns: Learner/He/Him/His
 
 📝 Resume - [About Me](https://drive.google.com/file/d/1Olzlb0canPPp1ymKqgR1cPNkD5GDYipX/view?usp=sharing)
+
+📊 Research - [Academia](https://independent.academia.edu/singhshrikanth)
   
   
 
